@@ -6,7 +6,7 @@ def UI():
         page_icon="🤖",
     )
     
-    st.write('develop')
+    st.write('develop ')
 
     st.write(os.getcwd())
 
